@@ -1,3 +1,4 @@
+<img src="https://github.com/davidofug/davidofug/blob/main/Twitter%20cover%20-%202022.jpg" alt="Profile Cover" />
 ### Hey 👋
 I'am Wampamba David, from Kampala - Uganda. My goal is to help new developers cut the duration of starting to earn income.
 I create, share and distribute content about Web Development and monetisation (Making money online). My posts are about JavaScript, React, ReactNative, NodeJs, MongoDB, Firebase, HTML, CSS and Monetisation. 
