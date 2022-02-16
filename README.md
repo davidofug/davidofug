@@ -2,7 +2,7 @@
 
 ### Hey 👋
 I'am Wampamba David, from Kampala - Uganda. My goal is to help new developers cut the duration of starting to earn income.
-I create, share and distribute content about Web Development and monetisation (Making money online). My posts are about JavaScript, React, ReactNative, NodeJs, MongoDB, Firebase, HTML, CSS and Monetisation. 
+I create, share and distribute content about Web Development and monetisation (Making money online). My content is about JavaScript, React, NodeJs, MongoDB, Firebase, HTML, CSS and Monetisation.
 
 - 🔭 I’m currently working on Distributa an App and writing an ebook.
 - 🌱 I’m currently learning Blockchain, Solidity, and Affiliate Marketing.
