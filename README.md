@@ -1,6 +1,6 @@
 <img src="https://github.com/davidofug/davidofug/blob/main/Facebook.jpg" alt="Profile Cover" />
 
-[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true)](https://github.com/davidofug/github-readme-stats)
+[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true)](https://github.com/davidofug/github-readme-stats)
 
 - 🔭 I’m currently working on writing Actionable Steps to Build Your Online Presence.
 - 🌱 I’m currently learning Blockchain, Solidity, and Affiliate Marketing.
