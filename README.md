@@ -8,5 +8,5 @@
 - 📫 How to reach me: Twitter, Likendin @davidofug
 - ⚡ Fun fact: People say, I appear tall in pictures but am only 5ft.
 
-[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text-color=#ffffff)](https://github.com/davidofug/github-readme-stats)
+[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text_color=#ffffff)](https://github.com/davidofug/github-readme-stats)
 
