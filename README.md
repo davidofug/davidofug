@@ -1,10 +1,5 @@
 <img src="https://github.com/davidofug/davidofug/blob/main/Facebook.jpg" alt="Profile Cover" />
 
-### Hey 👋
-I'am Wampamba David, from Kampala - Uganda.
-
-Web Development, Programming, and Online Monetisation Content and coaching Newbie Software Developers.
-
 [![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true)](https://github.com/davidofug/github-readme-stats)
 
 - 🔭 I’m currently working on writing Actionable Steps to Build Your Online Presence.
