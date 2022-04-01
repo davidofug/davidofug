@@ -10,4 +10,4 @@
 
 [![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text_color=ffffff)](https://github.com/davidofug/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidofug)](https://github.com/davidofug/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidofug&layout=compact)](https://github.com/davidofug/github-readme-stats)
