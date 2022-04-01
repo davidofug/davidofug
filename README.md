@@ -1,16 +1,16 @@
-<img src="https://github.com/davidofug/davidofug/blob/main/Twitter%20cover%20-%202022.jpg" alt="Profile Cover" />
+<img src="https://github.com/davidofug/davidofug/blob/main/Facebook.png" alt="Profile Cover" />
 
 ### Hey 👋
 I'am Wampamba David, from Kampala - Uganda.
 
-My goal is to help new dedicated Developers to start earning income in less than 5 months after starting to learn coding.
+Web Development, Programming, and Online Monetisation Content and coaching Newbie Software Developers.
 
-I create, share and distribute content about Web Development and monetisation (Making money online). My Web development content is focused on  JavaScript, React, NodeJs, MongoDB, Firebase, HTML, and CSS.
+[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug)](https://github.com/davidofug/github-readme-stats)
 
-- 🔭 I’m currently working on Distributa an App and writing an ebook.
+- 🔭 I’m currently working on writing Actionable Steps to Build Your Online Presence.
 - 🌱 I’m currently learning Blockchain, Solidity, and Affiliate Marketing.
 - 👯 I’m looking to collaborate on Firebase
 - 🤔 I’m looking for help with Solidity, Web3 and Blockchain
 - 💬 Ask me about HTML, CSS, JavaScript, React, MongoDB, SQL, Firebase, ReactNative, and Making money online.
-- 📫 How to reach me: @davidofug on Twitter and LinkedIn
+- 📫 How to reach me: Twitter, Likendin @davidofug
 - ⚡ Fun fact: People say, I appear tall in pictures but am only 5ft.
