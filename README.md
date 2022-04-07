@@ -14,6 +14,6 @@
 
 ⚡ Fun fact: People say, I appear tall in pictures but am only 5ft.
 
-[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text_color=ffffff&icon_color=cccccc)](https://github.com/davidofug/github-readme-stats)
+<a href="#">[![Wampamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text_color=ffffff&icon_color=cccccc)](https://github.com/davidofug/github-readme-stats)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidofug&layout=compact&theme=tokyonight&hide=java&text_color=ffffff)](https://github.com/davidofug/github-readme-stats)
+<a href="#">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidofug&layout=compact&theme=tokyonight&hide=java&text_color=ffffff)](https://github.com/davidofug/github-readme-stats)</a>
