@@ -1,5 +1,5 @@
-# Hey
-I am Wampamba David
+# Hey 👋, I am Wampamba David 
+
 
 - 🔭 I’m currently working on writing Actionable Steps to Build Your Online Presence.
 - 🌱 I’m currently learning Blockchain, Solidity, and Affiliate Marketing.
