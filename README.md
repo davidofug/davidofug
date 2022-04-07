@@ -1,7 +1,9 @@
 # Hey 👋, I am Wampamba David 
 
 🔭 I’m working on writing Actionable Steps to Build Your Online Presence.
+
 🌱 I’m learning Blockchain, Solidity, and Affiliate Marketing.
+
 👯 I’m looking to collaborate on Firebase and Supabase
 🤔 I’m looking for help with Solidity, Web3 and Blockchain
 💬 Ask me about HTML, CSS, JavaScript, React, MongoDB, SQL, Firebase, ReactNative, and Making money online.
