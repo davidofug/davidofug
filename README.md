@@ -1,4 +1,5 @@
-<img src="https://github.com/davidofug/davidofug/blob/main/Facebook.jpg" alt="Profile Cover" />
+# Hey
+I am Wampamba David
 
 - 🔭 I’m currently working on writing Actionable Steps to Build Your Online Presence.
 - 🌱 I’m currently learning Blockchain, Solidity, and Affiliate Marketing.
