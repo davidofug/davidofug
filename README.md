@@ -4,11 +4,13 @@
 
 🔭 I’m working on writing Actionable Steps to Build Your Online Presence.
 
+📘 I wrote A Complete Guide to Industry Frontend Web Developer => Buy Now cutt.ly/CGg2yYT
+
 🌱 I’m learning Blockchain, Solidity, and Affiliate Marketing.
 
 👯 I’m looking to collaborate on Firebase and Supabase
 
-🤔 I’m looking for help with Solidity, Web3 and Blockchain
+🤔 I’m looking for help with Solidity, and Blockchain
 
 💬 Ask me about HTML, CSS, JavaScript, React, MongoDB, SQL, Firebase, ReactNative, and Making money online.
 
