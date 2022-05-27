@@ -4,7 +4,7 @@
 
 🔭 I’m working on writing Actionable Steps to Build Your Online Presence.
 
-📘 I wrote A Complete Guide to Industry Frontend Web Developer => [![Buy Now](https://cutt.ly/CGg2yYT)]
+📘 I wrote A Complete Guide to Industry Frontend Web Developer => <a href="https://cutt.ly/CGg2yYT">Buy Now</a>
 
 🌱 I’m learning Blockchain, Solidity, and Affiliate Marketing.
 
