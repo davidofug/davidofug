@@ -2,7 +2,7 @@ Hey 👋,
 
 I'm David Wampamba.
 
-Web Development and Content Creation tips for Beginners and Advanced. 💪🏽✌️
+A web developer who is passionate about youth employment, and STEM.
 
 <span>[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidofug&count_private=true&show_icons=true&theme=tokyonight&text_color=ffffff&icon_color=cccccc)](https://github.com/davidofug/github-readme-stats)</span> <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidofug&layout=compact&theme=tokyonight&hide=java&text_color=ffffff)](https://github.com/davidofug/github-readme-stats)</span>
 
